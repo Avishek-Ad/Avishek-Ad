@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Avishek</h1>
-<h3 align="center">💻 Full Stack Developer | Passionate about building scalable web apps</h3>
+<h3 align="center">Full Stack Developer | Passionate about building scalable web apps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avishek-adhikari/">
@@ -9,14 +9,14 @@
 
 ---
 
-### 🧰 Languages & Tools
+### Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,redis,docker,postgresql,express,django,mongodb,tailwind,appwrite&theme=dark" alt="skills" />
 </p>
 
 ---
 
-### 🚀 Projects
+### Projects
 
 - ♟️ **[VidChat](https://rainfall-calls.onrender.com)** — Real-time video chat app using WebRTC and Socket.io  
 - 🛍️ **[Ecommerce Store](https://ecommerce-storeclient.vercel.app/)** — Full-stack store with cart, checkout & admin dashboard  
