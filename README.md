@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Avishek </h1>
+<h3 align="center"> Full Stack developer</h3>
 
-<!--
-**Avishek-Ad/Avishek-Ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">l
+<a href="https://www.linkedin.com/in/avishek-adhikari/" ><img src="https://img.shields.io/badge/-linkedin-yellowgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+</p>
+<br /> 
 
-Here are some ideas to get you started:
+## Languages and tools
+![skills](https://skillicons.dev/icons?i=ts,redis,docker,postgresql,express,django,mongodb,tailwind,appwrite&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+- ♟️   [VidChat](https://rainfall-calls.onrender.com)
+- 🛍️  [Ecommerce](https://ecommerce-storeclient.vercel.app/)
+- 🎥  [V-CRUD](https://v-crud-client.vercel.app/)
+- 🎥  [Digital-Gurukul](https://digital-gurukul-client.vercel.app/)
+
+
