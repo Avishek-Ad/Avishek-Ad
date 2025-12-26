@@ -18,10 +18,10 @@
 
 ### Projects
 
-- 💬🎥 **[VidChat](https://rainfall-calls.onrender.com)** — Real-time video chat app using WebRTC and Socket.io
+- 🤖 **[AI PR Reviewer](https://github.com/Avishek-Ad/AI-PR-reviewer)** — Automated code review tool for Pull Requests using AI capabilities
 - ♟️ **[Online Chess](https://chess-next-frontend-production.up.railway.app/)** — Online multiplayer chess platform with real-time gameplay and matchmaking using Django Channels and WebSocket
-- 🛍️ **[Ecommerce Store](https://ecommerce-storeclient.vercel.app/)** — Full-stack store with cart, checkout & admin dashboard  
-- 🎥 **[V-CRUD](https://v-crud-client.vercel.app/)** — Video management CRUD web app  
+- 📤 **[File Share](https://file-share-4f54.onrender.com/)** — Real-time file sharing platform for seamless data transfer
+- 🛍️ **[Ecommerce Store](https://ecommerce-storeclient.vercel.app/)** — Full-stack store with cart, checkout & admin dashboard
 - 🧠 **[Digital Gurukul](https://digital-gurukul-client.vercel.app/)** — Online course platform with student progress tracking  
 
 ---
