@@ -11,7 +11,7 @@
 
 ### Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,redis,docker,postgresql,express,django,mongodb,tailwind,appwrite&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,ts,redis,docker,postgresql,express,mongodb,tailwind,appwrite&theme=dark" alt="skills" />
 </p>
 
 ---
