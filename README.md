@@ -23,10 +23,9 @@
 
 - 🤖 **[AI PR Reviewer](https://github.com/Avishek-Ad/AI-PR-reviewer)** — Automated code review tool for Pull Requests using AI capabilities
 - ♟️ **[Online Chess](https://chess-next-frontend-production-85cb.up.railway.app/)** — Online multiplayer chess platform with real-time gameplay and matchmaking using Django Channels and WebSocket
+- 🎮 **[Territory Capture](https://territory-multiplayer-frontend.vercel.app/)** — A online multiplayer territory capture game
 - 📤 **[File Share](https://file-share-4f54.onrender.com/)** — Real-time file sharing platform for seamless data transfer
-- 🛍️ **[Ecommerce Store](https://ecommerce-storeclient.vercel.app/)** — Full-stack store with cart, checkout & admin dashboard
 - 🧠 **[Digital Gurukul](https://digital-gurukul-client.vercel.app/)** — Online course platform with student progress tracking  
-
 ---
 
 <p align="center">
